@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: shuchi-ebiApplication-v2_Jsondata
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shuchi.Sinha
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/shuchi-ebiApplication-v2_Jsondata
+Created-By: Maven Integration for Eclipse
+
